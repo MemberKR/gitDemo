@@ -2,4 +2,7 @@ Hello Git! 222
 Hello Git! 333
 Hello Git! hotFix
 Hello Git!
-Hello Git! master
+<<<<<<< HEAD
+=======
+Hello Git! hotFix
+>>>>>>> hotFix
